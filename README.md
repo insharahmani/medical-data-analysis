@@ -25,6 +25,7 @@ During the project, we encountered challenges such as:
 3. Ensuring data accuracy and consistency throughout the analysis
 4. To overcome these challenges, we employed various data cleaning and preprocessing techniques, as well as utilized the power of SQL for complex data queries.
 Results
+
 1.Average Hospital Charges: The average hospital charges across all records are $13,564.60.
 
 2.High Charges Analysis: Identified customers with charges exceeding $700.
