@@ -1,22 +1,39 @@
 Medical Dataset Analysis: Python, SQL, and Insights
+
 Project Overview
+
 The "Medical Dataset Analysis: Python, SQL, and Insights" project is a comprehensive exploration of healthcare data analysis using Python, SQL, and data visualization techniques. The project focuses on three critical datasets: "hospitalization_details," "medical_examinations," and "names," which are interconnected and provide a holistic view of patient health profiles, hospitalization charges, and other relevant information.
 
 Tools Used
+
 Python
+
 Pandas
+
 SQL
+
 PowerBi
+
 Project Goals
+
 The primary goals of this project include:
+
 Deriving insights from medical datasets
+
 Identifying trends in hospitalization charges and patient health profiles
+
 Analyzing the impact of variables such as BMI and smoking on healthcare costs
+
 Key Findings
+
 Through our analysis, we discovered several key insights, including:
+
 High charges associated with certain medical conditions and surgeries
+
 Variation in charges based on hospital tier and city tier
+
 The impact of BMI on healthcare costs
+
 Trends in hospitalization charges over the years
 
 Challenges Faced
