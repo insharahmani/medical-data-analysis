@@ -71,7 +71,7 @@ Analytical Results (16 SQL Queries)
 
 
 
-Conclusion
+##Conclusion##
 
 This project showcases how combining **Python, SQL, and Data Visualization** can lead to powerful healthcare insights:
 
