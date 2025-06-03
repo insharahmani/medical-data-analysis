@@ -26,20 +26,35 @@ During the project, we encountered challenges such as:
 4. To overcome these challenges, we employed various data cleaning and preprocessing techniques, as well as utilized the power of SQL for complex data queries.
 Results
 1.Average Hospital Charges: The average hospital charges across all records are $13,564.60.
+
 2.High Charges Analysis: Identified customers with charges exceeding $700.
+
 3.High BMI Patients Analysis: Listed customers with BMI over 35 and their corresponding charges.
+
 4.Customers with Major Surgeries: Listed customers who have undergone major surgeries.
+
 5.Average Charges by Hospital Tier in 2000: Calculated the average charges per hospital tier for the year 2000.
+
 6.Smoking Patients with Transplants Analysis: Retrieved customers who are smokers and have undergone transplants.
+
 7.Patients with Major Surgeries or Cancer History: Identified customers with a history of major surgeries or cancer.
+
 8.Customer with Most Major Surgeries: Identified the customer with the highest number of major surgeries.
+
 9.Customers with Major Surgeries and City Tiers: Compiled a list of customers who have undergone major surgeries and their respective city tiers.
+
 10.Average BMI by City Tier in 1995: Calculated the average BMI for each city tier level in the year 1995.
+
 11.High BMI Customers with Health Issues: Extracted customers with health issues and a BMI greater than 30.
+
 12.Customers with Highest Charges and City Tier by Year: Identified the customer with the highest total charges for each year and displayed their corresponding city tier.
+
 13.Top 3 Customers with Highest Average Yearly Charges: Identified the top 3 customers with the highest average yearly charges.
+
 14.Ranking Customers by Total Charges: Ranked customers based on their total charges over the years in descending order.
+
 15.Identifying Peak Year for Hospitalizations: Identified the year with the highest number of hospitalizations.
+
 Conclusion
 The "Medical Dataset Analysis: Python, SQL, and Insights" project has been a journey of exploration and discovery into the world of healthcare data. Through meticulous data cleaning, powerful SQL queries, and insightful analysis, we've uncovered valuable trends and patterns in medical datasets that can revolutionize healthcare decision-making.
 
